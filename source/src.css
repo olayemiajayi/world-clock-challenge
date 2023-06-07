@@ -46,3 +46,12 @@ select {
 .date {
   opacity: 0.3;
 }
+@media (max-width: 960px) {
+  .time {
+    position: relative;
+    right: 130px;
+    bottom: 50px;
+    font-size: 28px;
+    font-weight: bold;
+  }
+}

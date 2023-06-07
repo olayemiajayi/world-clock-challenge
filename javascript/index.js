@@ -34,6 +34,7 @@ function updateCountry(event) {
     "A"
   )}</small></div>
   </div>
+  <a href="/">All Cities</a>
   `;
 }
 
