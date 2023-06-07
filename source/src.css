@@ -46,13 +46,3 @@ select {
 .date {
   opacity: 0.3;
 }
-.dated {
-  opacity: 0.3;
-}
-.timed {
-  position: relative;
-  bottom: 50px;
-  margin-left: 340px;
-  font-size: 28px;
-  font-weight: bold;
-}
